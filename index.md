@@ -20,7 +20,6 @@ We are a local business that believes in the power of creativity and community. 
 
 Check out some of the amazing artwork created by our customers:
 
-{% include gallery caption="Customer Artwork" %}
 
 ## Contact Us
 
